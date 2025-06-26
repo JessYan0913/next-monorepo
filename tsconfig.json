@@ -2,10 +2,5 @@
   "extends": "./tsconfig.base.json",
   "files": [],
   "include": [],
-  "references": [
-    { "path": "apps/web" },
-    { "path": "apps/admin" },
-    { "path": "packages/ui" },
-    { "path": "packages/utils" }
-  ]
+  "references": [{ "path": "apps/web" }, { "path": "apps/admin" }, { "path": "packages/ui" }]
 }

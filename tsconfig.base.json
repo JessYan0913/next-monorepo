@@ -13,10 +13,6 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "baseUrl": ".",
-    "paths": {
-      "@g-force/ui": ["packages/ui/src"],
-      "@g-force/utils": ["packages/utils"]
-    }
+    "baseUrl": "."
   }
 }
